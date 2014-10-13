@@ -1,0 +1,9 @@
+name: "Ryan Riordan's Website"
+description: "Academic Website"
+
+url: "ryanriordan.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
